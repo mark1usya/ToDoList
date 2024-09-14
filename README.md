@@ -1,7 +1,7 @@
 # ToDoList
 To-Do List App
 
-This is a simple To-Do List app built with Swift using the MVVM architecture. The app helps users manage their tasks efficiently by allowing them to add, delete, and mark tasks as completed. It features a clean, minimalistic design and smooth user experience.
+This is a simple To-Do List app built with Swift,SwiftUI using the MVVM architecture. The app helps users manage their tasks efficiently by allowing them to add, delete, and mark tasks as completed. It features a clean, minimalistic design and smooth user experience.
 
 Features
 
