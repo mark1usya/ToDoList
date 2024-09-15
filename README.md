@@ -7,7 +7,7 @@ Features
 
 	•	Add new tasks: Easily create tasks and add them to the list.
 	•	Delete tasks: Remove tasks from the list with a swipe.
-	•	Mark tasks as completed: Select and mark tasks as completed to stay organized.
+	•	Mark tasks as completed: Select and mark tasks as completed to stay organised.
 	•	MVVM Architecture: Clean separation of concerns using Model-View-ViewModel (MVVM) design pattern for maintainability and scalability.
 
 How to Install
